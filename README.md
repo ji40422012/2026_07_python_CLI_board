@@ -1,0 +1,2 @@
+# 2026_07_python_CLI_board
+make_python_CLI_board
